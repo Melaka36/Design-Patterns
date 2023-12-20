@@ -14,12 +14,24 @@ public class Main {
 //        System.out.println(getCalculator().calculateTax());
 
 //  *************** program 3 ***************
-        Account account1=new Account();
-        account1.deposit(100);
-        account1.withdraw(30);
-        System.out.println(account1.getBalance());
+//        Account account1=new Account();
+//        account1.deposit(100);
+//        account1.withdraw(30);
+//        System.out.println(account1.getBalance());
+
+//        ********* program 4 *******8
+//        var mailService = new Email();
+//        mailService.sendEmail();
+
+
+//     *********** Program 5 - Polymorphism ********
+        drawUIControl(new TextBox());
+        drawUIControl(new CheckBox());
     }
 
+    public static void drawUIControl(UIControl control){
+        control.draw();
+    }
     public static TaxCalculator getCalculator(){
         return new TaxCalculator2019();
     }

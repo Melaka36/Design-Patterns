@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735d186f-e294-4915-ba91-57d4c7c6c71b" name="Changes" comment="Interfaces recap">
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Account.java" afterDir="false" />
+    <list default="true" id="735d186f-e294-4915-ba91-57d4c7c6c71b" name="Changes" comment="Encapsulation recap">
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/UIControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/designPatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/designPatterns/Main.java" afterDir="false" />
     </list>
@@ -52,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703067807844</updated>
-      <workItem from="1703067809387" duration="6430000" />
+      <workItem from="1703067809387" duration="8763000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Design Patterns">
       <created>1703067942555</created>
@@ -75,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703081286288</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Encapsulation recap">
+      <created>1703084612365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703084612365</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +107,7 @@
     <MESSAGE value="User" />
     <MESSAGE value="Insterfaces recap" />
     <MESSAGE value="Interfaces recap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interfaces recap" />
+    <MESSAGE value="Encapsulation recap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation recap" />
   </component>
 </project>
