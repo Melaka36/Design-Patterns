@@ -10,9 +10,14 @@ public class Main {
 //        user.getName();
 
 // ************** Program 2 *****************
-        TaxCalculator calculator = getCalculator();
-        System.out.println(getCalculator().calculateTax());
+//        TaxCalculator calculator = getCalculator();
+//        System.out.println(getCalculator().calculateTax());
 
+//  *************** program 3 ***************
+        Account account1=new Account();
+        account1.deposit(100);
+        account1.withdraw(30);
+        System.out.println(account1.getBalance());
     }
 
     public static TaxCalculator getCalculator(){
