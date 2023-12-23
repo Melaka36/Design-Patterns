@@ -1,5 +1,7 @@
 package com.designPatterns;
 
+import com.designPatterns.singleton.BillPughSingleton;
+
 import javax.xml.namespace.QName;
 
 public class Main {
@@ -28,7 +30,6 @@ public class Main {
         drawUIControl(new TextBox());
         drawUIControl(new CheckBox());
     }
-
     public static void drawUIControl(UIControl control){
         control.draw();
     }

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735d186f-e294-4915-ba91-57d4c7c6c71b" name="Changes" comment="Polymorphism recap">
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/EditorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/History.java" afterDir="false" />
+    <list default="true" id="735d186f-e294-4915-ba91-57d4c7c6c71b" name="Changes" comment="memento">
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/singleton/BillPughSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/singleton/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/designPatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/designPatterns/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703067807844</updated>
       <workItem from="1703067809387" duration="10761000" />
-      <workItem from="1703309304957" duration="3318000" />
+      <workItem from="1703309304957" duration="6271000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Design Patterns">
       <created>1703067942555</created>
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703098232821</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="memento">
+      <created>1703324477950</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703324477950</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,7 @@
     <MESSAGE value="Interfaces recap" />
     <MESSAGE value="Encapsulation recap" />
     <MESSAGE value="Polymorphism recap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism recap" />
+    <MESSAGE value="memento" />
+    <option name="LAST_COMMIT_MESSAGE" value="memento" />
   </component>
 </project>
