@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735d186f-e294-4915-ba91-57d4c7c6c71b" name="Changes" comment="Encapsulation recap">
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/UIControl.java" afterDir="false" />
+    <list default="true" id="735d186f-e294-4915-ba91-57d4c7c6c71b" name="Changes" comment="Polymorphism recap">
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/EditorState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/memento/History.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/designPatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/designPatterns/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "14",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;14&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703067807844</updated>
-      <workItem from="1703067809387" duration="8763000" />
+      <workItem from="1703067809387" duration="10761000" />
+      <workItem from="1703309304957" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit - Design Patterns">
       <created>1703067942555</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703084612365</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Polymorphism recap">
+      <created>1703098232821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703098232821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +113,7 @@
     <MESSAGE value="Insterfaces recap" />
     <MESSAGE value="Interfaces recap" />
     <MESSAGE value="Encapsulation recap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation recap" />
+    <MESSAGE value="Polymorphism recap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism recap" />
   </component>
 </project>
